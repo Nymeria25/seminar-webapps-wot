@@ -5,13 +5,13 @@
 * `npm install mocha -g`
 * `npm install gulp-cli -g`
 
-# Install dependencies
-Inside "dummy-sensor":
-* `npm install`
-
 # Link to local dependency
 Inside "dummy-sensor":
 * `npm link ../generic-sensor-api`
+
+# Install dependencies
+Inside "dummy-sensor":
+* `npm install`
 
 # Run unit tests
 * `gulp test`
